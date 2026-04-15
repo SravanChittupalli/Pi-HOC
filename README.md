@@ -5,7 +5,7 @@ This repository contains the official code implementation for the paper:
 > **Pi-HOC: Pairwise 3D Human-Object Contact Estimation**
 > Sravan Chittupalli, Ayush Jain, Dong Huang
 
-[**Paper**](https://arxiv.org/abs) | [**Project Page**](https://pi-hoc.github.io/)
+[**Paper**](https://arxiv.org/abs/2604.12923) | [**Project Page**](https://pi-hoc.github.io/)
 
 ---
 
